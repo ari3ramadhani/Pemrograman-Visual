@@ -1,0 +1,18 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\bin\Debug\tugas3.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\bin\Debug\tugas3.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\bin\Debug\tugas3.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\obj\x86\Debug\tugas3.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\obj\x86\Debug\tugas3.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\obj\x86\Debug\tugas3.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\obj\x86\Debug\tugas3.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\obj\x86\Debug\tugas3.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tugas3\obj\x86\Debug\tugas3.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\obj\x86\Debug\tugas3.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\obj\x86\Debug\tugas3.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\obj\x86\Debug\tugas3.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\bin\Debug\tugas3.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\bin\Debug\tugas3.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\bin\Debug\tugas3.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\obj\x86\Debug\tugas3.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\obj\x86\Debug\tugas3.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\tugas3\tugas3\obj\x86\Debug\tugas3.vbproj.GenerateResource.Cache

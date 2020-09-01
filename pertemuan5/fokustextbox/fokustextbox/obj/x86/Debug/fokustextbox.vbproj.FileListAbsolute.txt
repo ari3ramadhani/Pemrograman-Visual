@@ -1,0 +1,23 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\bin\Debug\fokustextbox.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\bin\Debug\fokustextbox.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\bin\Debug\fokustextbox.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.Data.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\fokustextbox\obj\x86\Debug\fokustextbox.Hasil.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\bin\Debug\fokustextbox.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\bin\Debug\fokustextbox.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\bin\Debug\fokustextbox.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.Data.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.Form2.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.Hasil.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan5\fokustextbox\fokustextbox\obj\x86\Debug\fokustextbox.vbproj.GenerateResource.Cache

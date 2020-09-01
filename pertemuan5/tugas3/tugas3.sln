@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tugas3", "tugas3\tugas3.vbproj", "{CD7FD09C-813B-4EF5-A93B-4B92588EE910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7FD09C-813B-4EF5-A93B-4B92588EE910}.Debug|x86.ActiveCfg = Debug|x86
+		{CD7FD09C-813B-4EF5-A93B-4B92588EE910}.Debug|x86.Build.0 = Debug|x86
+		{CD7FD09C-813B-4EF5-A93B-4B92588EE910}.Release|x86.ActiveCfg = Release|x86
+		{CD7FD09C-813B-4EF5-A93B-4B92588EE910}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
