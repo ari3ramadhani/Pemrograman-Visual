@@ -1,0 +1,9 @@
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\bin\Debug\tugas.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\bin\Debug\tugas.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\bin\Debug\tugas.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\obj\x86\Debug\tugas.vbproj.GenerateResource.Cache
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\obj\x86\Debug\tugas.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\obj\x86\Debug\tugas.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\tugas\tugas\obj\x86\Debug\tugas.pdb
