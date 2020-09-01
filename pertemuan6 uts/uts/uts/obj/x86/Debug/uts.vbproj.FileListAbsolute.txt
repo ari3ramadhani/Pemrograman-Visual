@@ -1,0 +1,12 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\bin\Debug\uts.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\bin\Debug\uts.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\bin\Debug\uts.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\obj\x86\Debug\uts.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\obj\x86\Debug\uts.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\obj\x86\Debug\uts.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\obj\x86\Debug\uts.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\obj\x86\Debug\uts.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uts\obj\x86\Debug\uts.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6 uts\uts\uts\obj\x86\Debug\uts.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6 uts\uts\uts\obj\x86\Debug\uts.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6 uts\uts\uts\obj\x86\Debug\uts.pdb

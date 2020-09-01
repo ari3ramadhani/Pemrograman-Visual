@@ -1,0 +1,18 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\bin\Debug\toolstripcontainer.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\bin\Debug\toolstripcontainer.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\bin\Debug\toolstripcontainer.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\obj\x86\Debug\toolstripcontainer.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\obj\x86\Debug\toolstripcontainer.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\obj\x86\Debug\toolstripcontainer.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\obj\x86\Debug\toolstripcontainer.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\obj\x86\Debug\toolstripcontainer.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\toolstripcontainer\obj\x86\Debug\toolstripcontainer.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\obj\x86\Debug\toolstripcontainer.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\obj\x86\Debug\toolstripcontainer.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\obj\x86\Debug\toolstripcontainer.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\bin\Debug\toolstripcontainer.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\bin\Debug\toolstripcontainer.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\bin\Debug\toolstripcontainer.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\obj\x86\Debug\toolstripcontainer.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\obj\x86\Debug\toolstripcontainer.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan6\toolstripcontainer\toolstripcontainer\obj\x86\Debug\toolstripcontainer.vbproj.GenerateResource.Cache
