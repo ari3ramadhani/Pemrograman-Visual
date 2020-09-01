@@ -1,0 +1,21 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\obj\x86\Debug\pertemuan2.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\obj\x86\Debug\pertemuan2.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\obj\x86\Debug\pertemuan2.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\bin\Debug\pertemuan2.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\bin\Debug\pertemuan2.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\bin\Debug\pertemuan2.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\obj\x86\Debug\pertemuan2.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\obj\x86\Debug\pertemuan2.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan2\obj\x86\Debug\pertemuan2.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\pertemuan2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\pertemuan2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\pertemuan2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\obj\x86\Debug\pertemuan2.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\obj\x86\Debug\pertemuan2.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\obj\x86\Debug\pertemuan2.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\bin\Debug\pertemuan2.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\bin\Debug\pertemuan2.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\bin\Debug\pertemuan2.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\obj\x86\Debug\pertemuan2.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\obj\x86\Debug\pertemuan2.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\1\obj\x86\Debug\pertemuan2.vbproj.GenerateResource.Cache

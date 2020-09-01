@@ -1,0 +1,18 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\bin\Debug\tiket.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\bin\Debug\tiket.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\bin\Debug\tiket.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\obj\x86\Debug\tiket.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\obj\x86\Debug\tiket.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\obj\x86\Debug\tiket.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\obj\x86\Debug\tiket.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\obj\x86\Debug\tiket.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\tiket\obj\x86\Debug\tiket.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\obj\x86\Debug\tiket.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\obj\x86\Debug\tiket.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\obj\x86\Debug\tiket.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\bin\Debug\tiket.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\bin\Debug\tiket.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\bin\Debug\tiket.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\obj\x86\Debug\tiket.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\obj\x86\Debug\tiket.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\tiket\tiket\tiket\obj\x86\Debug\tiket.vbproj.GenerateResource.Cache

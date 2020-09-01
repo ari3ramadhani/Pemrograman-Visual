@@ -1,0 +1,18 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\bin\Debug\lingkaran.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\bin\Debug\lingkaran.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\bin\Debug\lingkaran.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\obj\x86\Debug\lingkaran.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\obj\x86\Debug\lingkaran.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\obj\x86\Debug\lingkaran.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\obj\x86\Debug\lingkaran.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\obj\x86\Debug\lingkaran.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\lingkaran\obj\x86\Debug\lingkaran.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\obj\x86\Debug\lingkaran.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\obj\x86\Debug\lingkaran.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\obj\x86\Debug\lingkaran.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\bin\Debug\lingkaran.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\bin\Debug\lingkaran.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\bin\Debug\lingkaran.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\obj\x86\Debug\lingkaran.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\obj\x86\Debug\lingkaran.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan2\lingkaran\lingkaran\lingkaran\obj\x86\Debug\lingkaran.vbproj.GenerateResource.Cache
