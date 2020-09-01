@@ -1,0 +1,9 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\bin\Debug\nambah.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\bin\Debug\nambah.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\bin\Debug\nambah.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\obj\x86\Debug\nambah.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\obj\x86\Debug\nambah.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\obj\x86\Debug\nambah.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\obj\x86\Debug\nambah.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\obj\x86\Debug\nambah.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\nambah\obj\x86\Debug\nambah.pdb

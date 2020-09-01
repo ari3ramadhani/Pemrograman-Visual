@@ -1,0 +1,9 @@
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\bin\Debug\nambahFOR.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\bin\Debug\nambahFOR.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\bin\Debug\nambahFOR.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\obj\x86\Debug\nambah.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\obj\x86\Debug\nambah.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\obj\x86\Debug\nambahFOR.vbproj.GenerateResource.Cache
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\obj\x86\Debug\nambahFOR.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\obj\x86\Debug\nambahFOR.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\nambahFOR\nambahFOR\obj\x86\Debug\nambahFOR.pdb

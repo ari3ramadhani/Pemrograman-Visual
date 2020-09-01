@@ -1,0 +1,22 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\bin\Debug\uas2015.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\bin\Debug\uas2015.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\bin\Debug\uas2015.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\obj\x86\Debug\uas2015.transaksi.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\obj\x86\Debug\uas2015.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\obj\x86\Debug\uas2015.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\obj\x86\Debug\uas2015.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\obj\x86\Debug\uas2015.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\uas2015\obj\x86\Debug\uas2015.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\nambah for\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\bin\Debug\uas2015.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\bin\Debug\uas2015.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\bin\Debug\uas2015.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.transaksi.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.vbproj.GenerateResource.Cache
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\bang\uas2015\uas2015\uas2015\obj\x86\Debug\uas2015.apus.resources
