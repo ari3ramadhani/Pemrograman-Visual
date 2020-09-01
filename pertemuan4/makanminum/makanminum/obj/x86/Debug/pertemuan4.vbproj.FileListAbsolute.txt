@@ -1,0 +1,9 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\obj\x86\Debug\pertemuan4.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\obj\x86\Debug\pertemuan4.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\obj\x86\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\obj\x86\Debug\pertemuan4.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\obj\x86\Debug\pertemuan4.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan4\obj\x86\Debug\pertemuan4.pdb

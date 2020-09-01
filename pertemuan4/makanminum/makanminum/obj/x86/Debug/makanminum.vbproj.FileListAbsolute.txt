@@ -1,0 +1,9 @@
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\bin\Debug\makanminum.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\bin\Debug\makanminum.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\bin\Debug\makanminum.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\obj\x86\Debug\pertemuan4.Form1.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\obj\x86\Debug\pertemuan4.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\obj\x86\Debug\makanminum.vbproj.GenerateResource.Cache
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\obj\x86\Debug\makanminum.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\obj\x86\Debug\makanminum.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan4\makanminum\makanminum\obj\x86\Debug\makanminum.pdb
