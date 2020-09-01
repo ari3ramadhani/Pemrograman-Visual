@@ -1,0 +1,12 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\bin\Debug\pertemuan3.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\bin\Debug\pertemuan3.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\bin\Debug\pertemuan3.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\obj\x86\Debug\pertemuan3.Form1.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\obj\x86\Debug\pertemuan3.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\obj\x86\Debug\pertemuan3.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\obj\x86\Debug\pertemuan3.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\obj\x86\Debug\pertemuan3.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\pertemuan3\obj\x86\Debug\pertemuan3.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\if\pertemuan3\pertemuan3\obj\x86\Debug\pertemuan3.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\if\pertemuan3\pertemuan3\obj\x86\Debug\pertemuan3.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\pertemuan3\if\pertemuan3\pertemuan3\obj\x86\Debug\pertemuan3.pdb
