@@ -1,0 +1,21 @@
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\bin\Debug\ariramadhani.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\bin\Debug\ariramadhani.pdb
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\bin\Debug\ariramadhani.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\obj\x86\Debug\ariramadhani.ari.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\obj\x86\Debug\ariramadhani.Resources.resources
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\obj\x86\Debug\ariramadhani.vbproj.GenerateResource.Cache
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\obj\x86\Debug\ariramadhani.exe
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\obj\x86\Debug\ariramadhani.xml
+C:\Users\Ari Ramadhani\AppData\Local\Temporary Projects\ariramadhani\obj\x86\Debug\ariramadhani.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\bin\Debug\ariramadhani.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\bin\Debug\ariramadhani.pdb
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\bin\Debug\ariramadhani.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.ari.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.Resources.resources
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uas\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.vbproj.GenerateResource.Cache
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uasAriVb\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.exe
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uasAriVb\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.xml
+D:\documents\tugas\KAMPUS\semester5\Pemrograman Visual\praktek\uasAriVb\ariramadhani\ariramadhani\obj\x86\Debug\ariramadhani.pdb
